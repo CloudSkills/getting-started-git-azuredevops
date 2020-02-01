@@ -183,7 +183,7 @@ The Commits page shows the list of commits against this Repo, if you now click o
 
 ![Azure DevOps Repos Commits Inline Diff](https://dev-to-uploads.s3.amazonaws.com/i/pcwha796l1r03u69b9pv.png)
 
-This view shows the original line 1, it is in red with the minus sign infront of it, and it's new text in green with the plus sign at the beginning.  When there are multiple changes within a file, this view can be difficult to review, you can change this by clicking **Inline diff** to switch to the side by side view:
+This view shows the original line 1, it is in red with the minus sign in front of it, and it's new text in green with the plus sign at the beginning.  When there are multiple changes within a file, this view can be difficult to review, you can change this by clicking **Inline diff** to switch to the side by side view:
 
 ![Azure DevOps Repos Commits Side by Side Diff](https://dev-to-uploads.s3.amazonaws.com/i/4d182fm8lwv9qicv1p6p.png)
 
