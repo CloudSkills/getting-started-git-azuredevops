@@ -4,7 +4,7 @@ According to the [State of DevOps 2019](https://services.google.com/fh/files/mis
 
 * Collaboration - teams can work concurrently, even on the same sections of code, which are merged together.
 * Workflows - teams check the quality of each others code, ensuring compliance with coding standards.
-* Versioning - source code can be tagged so that released versions of code can be referred back to, 
+* Versioning - source code can be tagged so that released versions of code can be referred back to. 
 * History - a full history of the code repository is maintained and linked to a users credentials. If changes are well commented, this can assist in issue resolution.
 * Automation - actions within a version control system, such as checking in a code change, can be set to trigger other operations, such as compilation and testing.
 
